@@ -15,8 +15,6 @@
 
 >3- Decoupling de la Vista, el Controlador y el Modelo: Al implementar el patrón MVC y utilizar un administrador de eventos para la comunicación entre la Vista, el Controlador y el Modelo, el código se vuelve más mantenible y permite la implementación de controladores adicionales, como una Vista para gráficos reducidos en dispositivos móviles o un Controlador para dispositivos de pantalla táctil.
 
->4-Reemplazo fácil de la biblioteca de gráficos: Gracias al diseño MVC, es posible reemplazar la biblioteca de gráficos utilizada (en este caso, PyGame) por otra sin afectar el comportamiento del juego, ya que la Vista no controla cómo se ejecuta el juego.
-
 ### :loudspeaker: Features 
 
 - :cd: De código abierto
