@@ -5,7 +5,7 @@
 <img src="https://www.templateshub.net/uploads/1555423801%20html-store-gaming-template-min.png" />
 <a href="https://en.wikipedia.org/wiki/php"><img src="https://img.shields.io/static/v1?label=PHP&message=^7.0&color=blue&style=flat-square"/></a>
 
->Based on TinyFileManager by prasathmani, **PiZero-WU TinyFileManager** is simple web based file manager that is a small, fast, multi-language ready web application for storing, uploading, editing and managing files and folders online via web browser. The Application runs on PHP 5.5+.
+>MVC-gaming es un sistema MVC basado en PHP que utiliza la plantilla html Good Games para crear su aplicación web.
 
 
 
