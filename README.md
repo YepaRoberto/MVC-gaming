@@ -10,13 +10,10 @@
 
 ### :loudspeaker: Features 
 
-- :cd: Open Source, light and extremely simple
-- :iphone: Mobile friendly view for touch devices
+- :cd: De código abierto
+- :iphone: Amigable con dispositivos móviles y de toques
 - :bangbang: lots more...
 
-
-
-Bobo is a MVC system based on PHP with Good Games html Template
 
 ### Attribution
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0PE53M)
