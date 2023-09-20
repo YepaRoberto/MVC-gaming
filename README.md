@@ -19,4 +19,5 @@ Bobo is a MVC system based on PHP with Good Games html Template
 
 ### Attribution
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z0PE53M)
+
 Donations to this fork author - None
