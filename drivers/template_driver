@@ -1,0 +1,10 @@
+<?php
+Class TemplateDriver{
+//    Llamada a la plantilla 
+    public function BringTemplate(){
+
+        include "view/template.php";
+    }
+}
+
+
