@@ -1,0 +1,40 @@
+[{
+    "image": "assets/images/slide-1.jpg",
+    "thumb": "assets/images/slide-1-thumb.jpg",
+    "content": {
+        "title": "As we Passed, I remarked",
+        "text": "As we passed, I remarked a beautiful church-spire rising above some old elms in the park; and before them, in the midst of a lawn, chimneys covered with ivy, and the windows shining in the sun.",
+        "button_text": "Read More"
+    }
+},
+    {
+        "image": "assets/images/slide-2.jpg",
+        "thumb": "assets/images/slide-2-thumb.jpg",
+        "content": {
+            "title": "He made his passenger captain of one",
+            "text": "Now the races of these two have been for some ages utterly extinct, and besides to discourse any further of them would not be at all to my purpose. But the concern I have most at heart is for our Corporation of Poets, from whom I am preparing a petition to your Highness,  to be subscribed with the names of one...",
+            "button_text": "Read More"
+        }
+    },
+    {
+        "image": "assets/images/slide-3.jpg",
+        "thumb": "assets/images/slide-3-thumb.jpg"
+    },
+    {
+        "image": "assets/images/slide-4.jpg",
+        "thumb": "assets/images/slide-4-thumb.jpg",
+        "content": {
+            "title": "At length one of them called out in a clear",
+            "text": "TJust then her head struck against the roof of the hall: in fact she was now more than nine feet high...",
+            "button_text": "Read More"
+        }
+    },
+    {
+        "image": "assets/images/slide-5.jpg",
+        "thumb": "assets/images/slide-5-thumb.jpg",
+        "content": {
+            "title": "For good, too though, in consequence",
+            "text": "She gave my mother such a turn, that I have always been convinced I am indebted to Miss Betsey for having been born on a Friday. The word was appropriate to the moment.\n\nMy mother was so much worse that Peggotty, coming in with the teaboard and candles, and seeing at a glance how ill she was, - as Miss Betsey might have done sooner if there had been light enough, - conveyed her upstairs to her own room with all speed; and immediately dispatched Ham Peggotty, her nephew, who had been for some days past secreted in the house...",
+            "button_text": "Read More"
+        }
+    }]
